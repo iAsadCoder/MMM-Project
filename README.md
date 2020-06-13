@@ -6,15 +6,15 @@ Complete project of the  based on the specification provided.
 
 Few thing which does not meet the creteria  are :
 
- # 1) Did not used routing and all the server side code is in app.js
- # 2) All the view files are in the view folder  
+  i) Did not used routing and all the server side code is in app.js
+  ii) All the view files are in the view folder  
   Note: Did not focused on much on HTML & CSS.
- # 3) All the view files are in .pug extension as the traiditional .html extension was not responding 
+  iii) All the view files are in .pug extension as the traiditional .html extension was not responding 
   properly with .html
    Also most of the javascript functions were not working including getElementById  and some jQuery functions which made the project difficult
    Also had issues with tridition html and CSS script as the files were on .pug there fore all the script and css are in the view file.
   
- # 3) Each middleware is made with some modifications.
+  iv) Each middleware is made with some modifications.
   Unfortunitely all the functions could not be executed without 'single query' as the database tables were not 
    organizaed the way i expected! I had to improvise.
 
