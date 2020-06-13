@@ -50,7 +50,7 @@ Also some tables should had direct relationship between them.
  5) Triditional .html format is not recommanded!
  6) Request and Response
  7) nvm node version manager
- 9) Get and post!
+ 9) Get() and Post()  functions!
 
 # This my first time on node js and express . I believe that i can do much better job in future! Thank you! 
    
