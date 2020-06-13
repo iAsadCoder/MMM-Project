@@ -42,6 +42,6 @@ Example
 by all the stores. 
 Also some tables should had direct relationship between them.
 
-This the my attempt . I believe that i can do much better job in future! Thank you! 
+# This my first time on node js and express . I believe that i can do much better job in future! Thank you! 
    
   
