@@ -6,33 +6,33 @@ Complete project of the  based on the specification provided.
 
 Few thing which does not meet the creteria  are :
 
- 1) Did not used routing and all the server side code is in app.js
- 2) All the view files are in the view folder  
+ #1) Did not used routing and all the server side code is in app.js
+ #2) All the view files are in the view folder  
   Note: Did not focused on much on HTML & CSS.
-  3) All the view files are in .pug extension as the traiditional .html extension was not responding 
+ # 3) All the view files are in .pug extension as the traiditional .html extension was not responding 
   properly with .html
-  # Also most of the javascript functions were not working including getElementById  and some jQuery functions which made the project difficult
-  # Also had issues with tridition html and CSS script as the files were on .pug there fore all the script and css are in the view file.
+   Also most of the javascript functions were not working including getElementById  and some jQuery functions which made the project difficult
+   Also had issues with tridition html and CSS script as the files were on .pug there fore all the script and css are in the view file.
   
- 3) Each middleware is made with some modifications.
- # Unfortunitely all the functions could not be executed without 'single query' as the database tables were not 
+ #3) Each middleware is made with some modifications.
+  Unfortunitely all the functions could not be executed without 'single query' as the database tables were not 
    organizaed the way i expected! I had to improvise.
 
    
-  1) Login ApI:
+  #1) Login ApI:
   -After sucessful query retrives all  the data from employees table and checks with the username and password with one the user 
   has entered. If the it does not mtch shows the error message other wise logs in and and session is generated
   
   - Once the session is genrated it checks the session and then  runs another query is redirected an then is directed to  home page
 	containing all the users orders and details # please ignore the web design  i havent really worked on that!
 	
-2) GetItem
+#2) GetItem
   On nav bar click on items and the function of getItems would reun which will bring all the item details in single query
 
-3) GetShops
+#3) GetShops
  On  nav bar click on the Shops which will trigger the getShos and will being all the details of the shop in single query 
   
-4)BookOrder 
+#4)BookOrder 
  On the this page order can be booked. 
 
 
