@@ -46,8 +46,8 @@ Also some tables should had direct relationship between them.
  1) Middlewares
  2) Nodemon 
  3) Different node js and express packages
- 4) Triditionl javacacript does not work!
- 5) Triditional .html format is not recommanded!
+ 4) Traditional javacacript does not work!
+ 5) traditional .html format is not recommanded!
  6) Request and Response
  7) nvm node version manager
  9) Get() and Post()  functions!
